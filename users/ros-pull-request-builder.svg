@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024">
+	<circle cx="120" cy="120" r="116" style="fill: #304060;"/>
+	<circle cx="512" cy="120" r="116" style="fill: #304060;"/>
+	<circle cx="904" cy="120" r="116" style="fill: #304060;"/>
+	<circle cx="120" cy="512" r="116" style="fill: #304060;"/>
+	<g transform="translate(512, 512)">
+		<circle r="96" style="fill: #304060;"/>
+		<g transform="rotate(0)">
+			<polygon points="116,8 0,40 -116,8 -116,-8 0,-40 116,-8" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(22.5)">
+			<polygon points="116,8 0,40 -116,8 -116,-8 0,-40 116,-8" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(45)">
+			<polygon points="116,8 0,40 -116,8 -116,-8 0,-40 116,-8" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(67.5)">
+			<polygon points="116,8 0,40 -116,8 -116,-8 0,-40 116,-8" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(90)">
+			<polygon points="116,8 0,40 -116,8 -116,-8 0,-40 116,-8" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(112.5)">
+			<polygon points="116,8 0,40 -116,8 -116,-8 0,-40 116,-8" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(135)">
+			<polygon points="116,8 0,40 -116,8 -116,-8 0,-40 116,-8" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(157.5)">
+			<polygon points="116,8 0,40 -116,8 -116,-8 0,-40 116,-8" style="fill: #304060;"/>
+		</g>
+		<circle r="48" style="fill: #182040;"/>
+	</g>
+	<g transform="translate(412, 370) rotate(-20)">
+		<circle r="48" style="fill: #304060;"/>
+		<g transform="rotate(0)">
+			<polygon points="64,6 0,20 -64,6 -64,-6 0,-20 64,-6" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(36)">
+			<polygon points="64,6 0,20 -64,6 -64,-6 0,-20 64,-6" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(72)">
+			<polygon points="64,6 0,20 -64,6 -64,-6 0,-20 64,-6" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(108)">
+			<polygon points="64,6 0,20 -64,6 -64,-6 0,-20 64,-6" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(144)">
+			<polygon points="64,6 0,20 -64,6 -64,-6 0,-20 64,-6" style="fill: #304060;"/>
+		</g>
+		<circle r="24" style="fill: #182040;"/>
+	</g>
+	<g transform="translate(672, 445) rotate(-5)">
+		<circle r="48" style="fill: #304060;"/>
+		<g transform="rotate(0)">
+			<polygon points="64,6 0,20 -64,6 -64,-6 0,-20 64,-6" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(36)">
+			<polygon points="64,6 0,20 -64,6 -64,-6 0,-20 64,-6" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(72)">
+			<polygon points="64,6 0,20 -64,6 -64,-6 0,-20 64,-6" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(108)">
+			<polygon points="64,6 0,20 -64,6 -64,-6 0,-20 64,-6" style="fill: #304060;"/>
+		</g>
+		<g transform="rotate(144)">
+			<polygon points="64,6 0,20 -64,6 -64,-6 0,-20 64,-6" style="fill: #304060;"/>
+		</g>
+		<circle r="24" style="fill: #182040;"/>
+	</g>
+	<circle cx="904" cy="512" r="116" style="fill: #304060;"/>
+	<circle cx="120" cy="904" r="116" style="fill: #304060;"/>
+	<circle cx="512" cy="904" r="116" style="fill: #304060;"/>
+	<circle cx="904" cy="904" r="116" style="fill: #304060;"/>
+</svg>
