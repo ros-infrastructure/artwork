@@ -2114,9 +2114,9 @@
             <g transform="matrix(0.0114117,0,0,-0.0114117,378.485,146.073)">
                 <path d="M72.14,391.371L113.905,296.45C87.508,275.838 40.5,243.294 41.223,182.544C40.834,90.935 165.682,33.4 263.067,34.468C392.521,34.287 490.516,101.907 490.335,182.002C490.154,290.483 338.642,360.996 183.876,323.57L72.14,391.371Z" style="fill:white;fill-rule:nonzero;stroke:rgb(34,49,78);stroke-width:75.45px;stroke-linejoin:round;"/>
             </g>
-        </g>
-        <g transform="matrix(0.147893,0,0,-0.152833,395.599,133.449)">
-            <text x="0px" y="0px" style="font-family:'InterstateMono', 'Interstate Mono';font-size:191.2px;fill:rgb(34,49,78);">R<tspan x="129.442px 262.135px " y="0px 0px ">OS</tspan></text>
+            <g transform="matrix(0.147893,0,0,-0.152833,395.599,133.449)">
+                <text x="0px" y="0px" style="font-family:'InterstateMono', 'Interstate Mono';font-size:191.2px;fill:rgb(34,49,78);">R<tspan x="129.442px 262.135px " y="0px 0px ">OS</tspan></text>
+            </g>
         </g>
         <g transform="matrix(1,0,0,1,8.18347,14.9305)">
             <g id="path398802" transform="matrix(0.0917901,0,0,0.0948559,529.243,232.117)">
@@ -2146,6 +2146,11 @@
             <g transform="matrix(0.0070827,0,0,-0.0070827,533.645,240.147)">
                 <path d="M72.14,391.371L113.905,296.45C87.508,275.838 40.5,243.294 41.223,182.544C40.834,90.935 165.682,33.4 263.067,34.468C392.521,34.287 490.516,101.907 490.335,182.002C490.154,290.483 338.642,360.996 183.876,323.57L72.14,391.371Z" style="fill:white;fill-rule:nonzero;stroke:rgb(34,49,78);stroke-width:75.45px;stroke-linejoin:round;"/>
             </g>
+        </g>
+        <g transform="matrix(0.295912,0,0,-0.295912,43.1749,407.259)">
+            <text x="85.65px" y="870.808px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(101,98,99);">The chat bubble icon is &quot;PD-self Public Domain</text>
+            <text x="336.695px" y="870.808px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(101,98,99);">&quot;</text>
+            <text x="340.474px" y="870.808px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(101,98,99);">, sourced from wikimedia: https://commons.wikimedia.org/wiki/File:Speech_balloon.svg</text>
         </g>
     </g>
     <defs>
