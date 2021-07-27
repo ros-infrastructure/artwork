@@ -3,6 +3,8 @@ artwork
 
 Artwork and Logos for ROS
 
+They are subject to the Trademark Policy posted at: https://www.ros.org/press-kit/
+
 
 License
 -------
